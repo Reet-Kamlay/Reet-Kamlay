@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Two-Good-Clone<br>👯 I’m looking to collaborate on Two-Good-Clone<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA<br>💬 Ask me about web development<br>⚡ Fun fact
+🔭 I’m currently working on Two-Good-Clone<br>👯 I’m looking to collaborate on Two-Good-Clone<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA<br>💬 Ask me about web development, Machine Learning, Deep Learning<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
